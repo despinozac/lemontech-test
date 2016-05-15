@@ -1,0 +1,1 @@
+-- respuesta b) => n(n+1)/2
