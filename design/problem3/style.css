@@ -1,0 +1,22 @@
+.header{
+  background-color: #B2B2B2;
+}
+
+.appoinments td {
+  width: 100px;
+  height: 30px;
+  margin: 3px;
+  padding: 5px;
+  background-color: #1D5489;
+}
+
+.appoinments td:first-child {
+  background-color: #B2B2B2;
+  text-align: center;
+}
+
+.appoinments td[data-taken] {
+  background-color: #F36616;
+  color: #FFFFFF;
+  text-align: center;
+}
